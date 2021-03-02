@@ -21,7 +21,13 @@ MDN Docs의 "Web으로 시작하기"
     2. 참고 영상
     <a href="https://www.youtube.com/watch?v=7_LPdttKXPc">How the internet Works in 5 minutes</a> 
     3. 개념
-    
+
+### 웹의 동작 방식
+<a href="https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work">웹의 동작방식</a> 
+
+- 웹의 동작방식
+    1. 클라이언트와 서버
+    2. 
 
 
 ### 프로젝트의 목표 설정에 대한 글(Article on setting project goals)  
